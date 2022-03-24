@@ -1,0 +1,1 @@
+Since Dell Inc. has not accepted the VMware's Pre-Release Binary Agreement, the downloads listed here have not been enabled. Please contact the authorized representative of your company to login and accept the agreement which will enable users to download these products.
